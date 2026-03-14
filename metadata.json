@@ -1,0 +1,5 @@
+{
+  "name": "Cymatic Interference Explorer",
+  "description": "A generative art simulation exploring wave interference from vibrating geometric edges, evolving from triangles to complex polygons.",
+  "requestFramePermissions": []
+}
